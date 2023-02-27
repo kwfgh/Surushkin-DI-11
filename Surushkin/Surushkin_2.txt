@@ -1,0 +1,8 @@
+git config --global user.name "<ваше_имя>"
+git config --global user.email "<адрес_почты@email.com>"
+cd <путь_к_вашему_проекту>
+git init
+git add .
+git add --all
+git add <имя_файла> 
+git commit -m "<комментарий>"
